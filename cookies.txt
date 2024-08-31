@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wordpress.iqonic.design	TRUE	/product/wp/talkie/	FALSE	1999999999	woocommerce_items_in_cart	1
+wordpress.iqonic.design	TRUE	/product/wp/talkie/	FALSE	1999999999	wp_woocommerce_session_f4f0b1305ad14ebf4e062e34aae764f1	t_48b61cf337496aeb8d3662f1b5c2f9%7C%7C1724820545%7C%7C1724816945%7C%7Cc9621bcb2b7b6efada916a555c6bfeb9
+wordpress.iqonic.design	TRUE	/product/wp/talkie/	FALSE	1999999999	woocommerce_cart_hash	340bc3e9070c1d06812dc9589791e49a
+wordpress.iqonic.design	TRUE	/	FALSE	1999999999	done	deleted
+wordpress.iqonic.design	TRUE	/	FALSE	1999999999	product_view[is_grid]	2
+wordpress.iqonic.design	TRUE	/	FALSE	1999999999	product_view[col_no]	3
+
